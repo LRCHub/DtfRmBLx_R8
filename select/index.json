@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "無自覚アプリオリ",
+  "base_artist": "コメティック",
+  "createdAt": "2026-02-11T08:48:00.706797Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "無自覚アプリオリ",
+      "artist": "コメティック",
+      "has_synced": false,
+      "path": "select/pl_01_無自覚アプリオリ_コメティック.txt"
+    }
+  ]
+}
